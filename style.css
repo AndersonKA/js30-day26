@@ -25,6 +25,10 @@ nav {
   perspective: 600px;
 }
 
+img {
+  max-width: 10rem;
+}
+
 .cool > li > a {
   color: yellow;
   text-decoration: none;
@@ -70,8 +74,6 @@ nav ul {
 .trigger-enter-active .dropdown {
   opacity: 1;
 }
-
-
 
 .dropdownBackground {
   width:100px;
